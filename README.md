@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Linkwarden is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://linkwarden.app/
+Linkwarden provides an open-source, self‑hostable bookmark manager that lets users collect, read, annotate, and fully preserve web content. It offers full‑page archival, tagging, search, and sharing features, targeting individuals and teams who need a reliable, privacy‑focused solution for organizing online resources. The platform is built with modern web technologies and can be deployed on personal servers or cloud environments, ensuring data ownership and control.
+
+**Areas:** Company · Bookmarking · OpenSource · SelfHostable · Productivity
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://linkwarden.app/)
+- [Documentation](https://docs.linkwarden.app/)
+- [Getting started](https://docs.linkwarden.app/getting-started/apple-shortcut)
+- [Pricing](https://linkwarden.app/pricing)
+- [Changelog](https://linkwarden.app/blog/releases/2.6)
+- [Blog](https://linkwarden.app/blog)
+- [Terms of service](https://linkwarden.app/tos)
+- [Privacy policy](https://linkwarden.app/privacy-policy)
+- [GitHub](https://github.com/linkwarden)
+
+**APIs profiled:** 21
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/linkwarden/](https://apis.io/providers/linkwarden/).
